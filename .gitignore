@@ -2,3 +2,5 @@
 *.pyc
 *.pyo
 build*/
+zig-out/
+zig-cache/
